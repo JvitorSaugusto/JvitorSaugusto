@@ -94,8 +94,8 @@ Estudos direcionados para isso:
 ## 📈 GitHub
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=SEUUSER&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=JvitorSaugusto&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvitorSaugustoR&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ## 📫 Contato
