@@ -93,10 +93,7 @@ Estudos direcionados para isso:
 
 ## 📈 GitHub
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=JvitorSaugusto&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvitorSaugustoR&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JvitorSaugusto&theme=github-compact)]
 
 ## 📫 Contato
 
