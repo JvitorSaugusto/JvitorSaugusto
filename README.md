@@ -98,11 +98,11 @@ Estudos direcionados para isso:
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK">
+  <a href="https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-augusto-784128224)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:seuemail@email.com">
+  <a href="jvitorsaugusto@outlook.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
