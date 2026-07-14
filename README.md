@@ -10,7 +10,7 @@ Construindo sistemas backend orientados a regras de negócio sólidas, arquitetu
 ### 👨‍💻 Sobre mim
 
 - 💼 Desenvolvedor Backend, estagiário na **Esolvere**, atuando com Python, Django, Django REST Framework, FastAPI, Docker
-- 🏭 Trabalho no desenvolvimento de apis com foco em módulos de visualização operacional e integração de dados para sistemas industriais
+- 🏭 Trabalho no desenvolvimento de APIs com foco em módulos de visualização operacional e integração de dados para sistemas industriais
 - 🔄 Experiência com processamento assíncrono usando Celery e Redis
 - 🏗️ Adepto de Clean Code, SOLID e arquitetura em camadas / orientada a serviços
 - 🗄️ Modelagem de banco de dados e SQL (PostgreSQL, MySQL, SQLite) — aprofundando MySQL no curso técnico
@@ -31,20 +31,12 @@ Construindo sistemas backend orientados a regras de negócio sólidas, arquitetu
 
 ### 🚀 Tecnologias
 
-**Backend**
-`Python` `FastAPI` `Django` `Django REST Framework` `PHP` `Java` `Spring Boot`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,java,spring,js,nextjs,postgres,mysql,sqlite,docker,git,github,redis" />
+</p>
 
-**Frontend**
-`JavaScript` `Next.js`
-
-**Banco de Dados**
-`PostgreSQL` `MySQL` `SQLite`
-
-**Ferramentas & Arquitetura**
-`Docker` `Git` `GitHub` `Redis` `Celery` `SQLAlchemy` `REST APIs` `Clean Architecture` `SOLID`
-
-**IA**
-`LangGraph` `Ollama`
+**IA:** LangGraph • Ollama
+**Arquitetura:** REST APIs • SQLAlchemy • Clean Architecture • SOLID
 
 ---
 
@@ -61,9 +53,12 @@ Projeto pessoal desenvolvido para simular um ambiente industrial em tempo real, 
 - Arquitetura orientada a serviços, com separação entre motor físico e motor analítico
 
 **Stack**
-`Python` `FastAPI` `SQLAlchemy Async` `Celery` `Redis` `SQLite` `Docker`
 
-**Próximos passos**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,redis,docker" />
+</p>
+
+**Passos Futuros**
 Transformar o simulador em um ambiente de treino no estilo **Gymnasium**, usando o motor físico já existente como base. A ideia é treinar uma rede neural (Reinforcement Learning) dentro desse "ginásio" com o objetivo de aprender a gerir a fábrica virtual de forma cada vez mais eficiente — otimizando OEE, priorização de ordens de produção e paradas de manutenção.
 
 Estudos direcionados para isso:
@@ -85,6 +80,29 @@ Estudos direcionados para isso:
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JvitorSaugusto&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvitorSaugusto&layout=compact&hide_border=true" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JvitorSaugusto&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Vamos nos conectar!
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-augusto-784128224) • [GitHub](https://github.com/JvitorSaugusto) • jvitorsaugusto@outlook.com
+<p align="left">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-augusto-784128224" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/JvitorSaugusto" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="mailto:jvitorsaugusto@outlook.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
