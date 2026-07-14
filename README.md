@@ -36,10 +36,15 @@ Construindo sistemas backend orientados a regras de negócio sólidas, arquitetu
 </p>
 
 **Backend:** Python, FastAPI, Django, Django REST Framework, PHP, Java, Spring Boot
+
 **Frontend:** JavaScript, Next.js
+
 **Banco de Dados:** PostgreSQL, MySQL, SQLite
+
 **Ferramentas:** Docker, Git, GitHub, Redis, Celery, SQLAlchemy
+
 **IA:** LangGraph, Ollama
+
 **Arquitetura:** REST APIs, Clean Architecture, SOLID
 
 ---
