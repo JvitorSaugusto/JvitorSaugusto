@@ -91,31 +91,21 @@ Estudos direcionados para isso:
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JvitorSaugusto&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvitorSaugusto&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=SEUUSER&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=JvitorSaugusto&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 📫 Vamos nos conectar!
+## 📫 Contato
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-augusto-784128224" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" /> LinkedIn
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/JvitorSaugusto" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" /> GitHub
-</a>
-&nbsp;&nbsp;
-<a href="mailto:jvitorsaugusto@outlook.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" /> jvitorsaugusto@outlook.com
-</a>
+  <a href="https://www.linkedin.com/in/SEU-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
