@@ -102,8 +102,6 @@ Estudos direcionados para isso:
 <img src="https://streak-stats.demolab.com/?user=JvitorSaugusto&theme=dark&hide_border=true" />
 </p>
 
-> ⚠️ Esses cards são gerados por serviços externos (Vercel) e às vezes demoram a carregar ou falham temporariamente — se aparecerem quebrados, é só recarregar a página do GitHub.
-
 ---
 
 ### 📫 Vamos nos conectar!
