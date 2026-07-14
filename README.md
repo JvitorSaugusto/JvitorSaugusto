@@ -93,7 +93,7 @@ Estudos direcionados para isso:
 
 ## 📈 GitHub
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JvitorSaugusto&theme=github-compact)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JvitorSaugusto&theme=github-compact)
 
 ## 📫 Contato
 
