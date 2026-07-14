@@ -35,8 +35,12 @@ Construindo sistemas backend orientados a regras de negócio sólidas, arquitetu
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,php,java,spring,js,nextjs,postgres,mysql,sqlite,docker,git,github,redis" />
 </p>
 
-**IA:** LangGraph • Ollama
-**Arquitetura:** REST APIs • SQLAlchemy • Clean Architecture • SOLID
+**Backend:** Python, FastAPI, Django, Django REST Framework, PHP, Java, Spring Boot
+**Frontend:** JavaScript, Next.js
+**Banco de Dados:** PostgreSQL, MySQL, SQLite
+**Ferramentas:** Docker, Git, GitHub, Redis, Celery, SQLAlchemy
+**IA:** LangGraph, Ollama
+**Arquitetura:** REST APIs, Clean Architecture, SOLID
 
 ---
 
@@ -57,6 +61,8 @@ Projeto pessoal desenvolvido para simular um ambiente industrial em tempo real, 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,redis,docker" />
 </p>
+
+Python, FastAPI, SQLAlchemy Async, Celery, Redis, SQLite, Docker
 
 **Passos Futuros**
 Transformar o simulador em um ambiente de treino no estilo **Gymnasium**, usando o motor físico já existente como base. A ideia é treinar uma rede neural (Reinforcement Learning) dentro desse "ginásio" com o objetivo de aprender a gerir a fábrica virtual de forma cada vez mais eficiente — otimizando OEE, priorização de ordens de produção e paradas de manutenção.
@@ -83,13 +89,15 @@ Estudos direcionados para isso:
 ### 📊 GitHub Stats
 
 <p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JvitorSaugusto&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvitorSaugusto&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JvitorSaugusto&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvitorSaugusto&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JvitorSaugusto&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=JvitorSaugusto&theme=dark&hide_border=true" />
 </p>
+
+> ⚠️ Esses cards são gerados por serviços externos (Vercel) e às vezes demoram a carregar ou falham temporariamente — se aparecerem quebrados, é só recarregar a página do GitHub.
 
 ---
 
@@ -97,12 +105,14 @@ Estudos direcionados para isso:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-augusto-784128224" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" /> LinkedIn
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/JvitorSaugusto" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" /> GitHub
 </a>
+&nbsp;&nbsp;
 <a href="mailto:jvitorsaugusto@outlook.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" /> jvitorsaugusto@outlook.com
 </a>
 </p>
