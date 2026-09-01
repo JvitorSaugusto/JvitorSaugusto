@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou João Vitor 👋</h1>
-<h3 align="center">Backend Developer • Python • FastAPI • Django • PHP</h3>
+<h3 align="center">Backend Developer • Python • FastAPI • Django • PHP • Laravel</h3>
 
 <p align="center">
 Construindo sistemas backend orientados a regras de negócio sólidas, arquitetura em serviços e automação de processos industriais.
