@@ -120,7 +120,7 @@ Evolução do assistente para um formato *Agentic*, dando à IA capacidade de in
 
 ## 📈 GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JvitorSaugusto&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JvitorSaugusto&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📫 Contato
 
