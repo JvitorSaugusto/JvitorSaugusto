@@ -120,7 +120,7 @@ Evolução do assistente para um formato *Agentic*, dando à IA capacidade de in
 
 ## 📈 GitHub
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JvitorSaugusto&theme=github-compact)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JvitorSaugusto&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contato
 
