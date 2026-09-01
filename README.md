@@ -91,8 +91,6 @@ Estudos direcionados para isso:
 
 ---
 
----
-
 ### 📌 Projeto em destaque — Orquestrador de IA Local e Autônomo
 
 Desenvolvimento de um ecossistema de assistente virtual 100% local e autônomo, desenhado para orquestrar múltiplos Modelos de Linguagem (LLMs) através de um roteador inteligente. O sistema delega tarefas simples para modelos rápidos (GPU) e tarefas arquiteturais complexas para modelos gigantes processados em background.
