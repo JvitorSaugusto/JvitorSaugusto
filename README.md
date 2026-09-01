@@ -32,10 +32,10 @@ Construindo sistemas backend orientados a regras de negócio sólidas, arquitetu
 ### 🚀 Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,java,spring,js,nextjs,postgres,mysql,sqlite,docker,git,github,redis" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,laravel,java,spring,js,nextjs,postgres,mysql,sqlite,docker,git,github,redis" />
 </p>
 
-**Backend:** Python, FastAPI, Django, Django REST Framework, PHP, Java, Spring Boot
+**Backend:** Python, FastAPI, Django, Django REST Framework, PHP, Laravel, Java, Spring Boot
 
 **Frontend:** JavaScript, Next.js
 
