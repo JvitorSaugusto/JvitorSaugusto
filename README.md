@@ -91,6 +91,35 @@ Estudos direcionados para isso:
 
 ---
 
+---
+
+### 📌 Projeto em destaque — Orquestrador de IA Local e Autônomo
+
+Desenvolvimento de um ecossistema de assistente virtual 100% local e autônomo, desenhado para orquestrar múltiplos Modelos de Linguagem (LLMs) através de um roteador inteligente. O sistema delega tarefas simples para modelos rápidos (GPU) e tarefas arquiteturais complexas para modelos gigantes processados em background.
+
+**Principais funcionalidades**
+- Roteamento inteligente de intenções (Agentic Routing) via LangGraph
+- Memória de longo prazo persistida em Banco de Dados (PostgreSQL/SQLite)
+- Janela de contexto deslizante (Sliding Window) com sumarização automática
+- Processamento assíncrono de tarefas pesadas com Celery e Redis
+- Geração autônoma de notas e documentações técnicas estruturadas
+
+**Stack**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" />
+</p>
+
+Python, FastAPI, LangGraph, Celery, Redis, PostgreSQL, Ollama (Llama.cpp)
+
+**Passos Futuros (Tools em Desenvolvimento)**
+Evolução do assistente para um formato *Agentic*, dando à IA capacidade de interagir com o ambiente externo através de ferramentas (Tools) acopladas ao LangGraph:
+- **Tool de Web Scraping:** para buscar, ler e injetar documentações técnicas atualizadas diretamente no contexto do modelo.
+- **Tool de File System Local:** para permitir que a IA navegue por pastas, leia arquivos e analise projetos inteiros direto do meu PC.
+- **Tool de Git/GitHub:** para clonar, ler e revisar bases de código de repositórios remotos de forma autônoma.
+
+---
+
 ## 📈 GitHub
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JvitorSaugusto&theme=github-compact)
