@@ -85,7 +85,7 @@ Estudos direcionados para isso:
 
 - 🚀 Desenvolvendo o simulador industrial para cálculo de OEE
 - 🐍 Especializando-me em Python e FastAPI
-- 📖 Estudando PHP
+- 📖 Estudando PHP e Laravel pelo SENAI
 - ⚙️ Aprimorando conhecimentos em Celery e arquiteturas assíncronas
 - 🤖 Preparando a evolução do simulador com LLMs, LangGraph, RAG e agentes inteligentes
 
@@ -101,6 +101,7 @@ Desenvolvimento de um ecossistema de assistente virtual 100% local e autônomo, 
 - Janela de contexto deslizante (Sliding Window) com sumarização automática
 - Processamento assíncrono de tarefas pesadas com Celery e Redis
 - Geração autônoma de notas e documentações técnicas estruturadas
+- **Tool de File System Local:** para permitir que a IA navegue por pastas, leia arquivos e analise projetos inteiros direto do meu PC.
 
 **Stack**
 
@@ -113,7 +114,6 @@ Python, FastAPI, LangGraph, Celery, Redis, PostgreSQL, Ollama (Llama.cpp)
 **Passos Futuros (Tools em Desenvolvimento)**
 Evolução do assistente para um formato *Agentic*, dando à IA capacidade de interagir com o ambiente externo através de ferramentas (Tools) acopladas ao LangGraph:
 - **Tool de Web Scraping:** para buscar, ler e injetar documentações técnicas atualizadas diretamente no contexto do modelo.
-- **Tool de File System Local:** para permitir que a IA navegue por pastas, leia arquivos e analise projetos inteiros direto do meu PC.
 - **Tool de Git/GitHub:** para clonar, ler e revisar bases de código de repositórios remotos de forma autônoma.
 
 ---
